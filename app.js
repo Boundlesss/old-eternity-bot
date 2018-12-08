@@ -8,9 +8,6 @@ const fs = require('fs');
 
 const path = module.require('path');
 
-const sqlite3 = module.require('sqlite3').verbose();
-const dbPath = path.resolve(__dirname, './databases/test.db');
-
 // Command Handler //
 fs.readdir("./commands/", (err, files) => {
     if (err) console.error(err);
