@@ -1,21 +1,3 @@
-// ToDo:
-/*
-    (DM) Warn System
-    Report System
-
-    (DM) Kick and Ban system
-    Vote Kick
-
-    Manual Verification
-
-    Logging system
-*/
-
-// CLEAN CODE UP!
-
-// Owner ID: 509114899738394626
-// 
-
 // Discord JS
 const chalk = require('chalk');
 const Discord = require('discord.js');
