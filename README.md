@@ -5,6 +5,8 @@ Old source code for a old bot. Basically, I am deciding to release the old sourc
 
 The code is all yours basically. You can probably try to work off it, or just use it as a reference. I don't recommend either because the code is poorly written and ineffecient.
 
+Oh, also. I have since rewrote the bot, and it is not even close to being finished, but it will stay closed-source. Buuuttt, there will be little sneak peaks ;)
+
 You will only need:
  - Discord.js
  - Chalk (Coloring in your terminal/shell)
